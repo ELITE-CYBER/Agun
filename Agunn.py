@@ -1,1 +1,1 @@
-import new_project2
+import new_project
