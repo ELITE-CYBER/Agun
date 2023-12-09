@@ -1,1 +1,1 @@
-import fire
+import new_project
