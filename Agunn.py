@@ -1,1 +1,1 @@
-import AFG
+import gold
