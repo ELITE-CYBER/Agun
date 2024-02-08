@@ -1,1 +1,1 @@
-import ak47talha_enc
+import pytalha_enc
