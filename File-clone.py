@@ -1,1 +1,1 @@
-import file1talha_enc
+import indiantalha_enc
