@@ -1,1 +1,1 @@
-import SCX
+import school
