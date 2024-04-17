@@ -1,4 +1,4 @@
-# Encrypt By : Akash Das {boom}
+# Encrypt By : Akash Das
 # Encrypt : Py3
 # Github : https://github.com/ELITE-CYBER
 
