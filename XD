@@ -1,3 +1,11 @@
 #!/data/data/com.termux/files/usr/bin/python3.11
 
-import AKA
+import os,time
+
+print('ELITE TOOL IS OFF NOW');time.sleep(5)
+print('----------------------------')
+print('Contact Admin');time.sleep(3)
+os.system('xdg-open https://www.facebook.com/akash.mitali9')
+
+
+
