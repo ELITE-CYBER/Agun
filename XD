@@ -2,9 +2,13 @@
 
 import os,time
 
-print('ELITE TOOL IS OFF NOW');time.sleep(5)
-print('----------------------------')
-print('Contact Admin');time.sleep(3)
+
+
+os.system('clear')
+
+print('\t ELITE TOOL IS OFF NOW');time.sleep(6)
+print('\t ----------------------------')
+print('\t Contact Admin');time.sleep(4)
 os.system('xdg-open https://www.facebook.com/akash.mitali9')
 
 
