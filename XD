@@ -1,7 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/python3.11
 
-import SEX
-
+import kok
 
 """
 import os,time
