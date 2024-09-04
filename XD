@@ -10,7 +10,7 @@ import os,time
 
 os.system('clear')
 
-print('\t ELITE TOOL IS OFF NOW');time.sleep(6)
+print('\t ELITE TOOL IS UPDATING NOW');time.sleep(6)
 print('\t ----------------------------')
 print('\t Contact Admin');time.sleep(4)
 os.system('xdg-open https://www.facebook.com/akash.mitali9')
