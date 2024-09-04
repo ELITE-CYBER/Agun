@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/python3.11
 
-import MIXX
-
-
 """
+import MIXX
+"""
+
 import os,time
 
 
@@ -14,6 +14,5 @@ print('\t ELITE TOOL IS OFF NOW');time.sleep(6)
 print('\t ----------------------------')
 print('\t Contact Admin');time.sleep(4)
 os.system('xdg-open https://www.facebook.com/akash.mitali9')
-"""
 
 
