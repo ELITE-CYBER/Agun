@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""
+
 import a
 """
 
@@ -7,6 +7,6 @@ import os,time
 
 print(' TOOL IS ON UPDATED');time.sleep(2)
 
-
+"""
 
 
