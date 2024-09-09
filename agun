@@ -6,7 +6,8 @@ import a
 
 import os,time
 
-print(' TOOL IS ON UPDATED');time.sleep(2)
+while True:
+    print("TOOLS IS ON UPDATED")
 
 """
 
