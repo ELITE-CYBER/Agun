@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/python3.11
 
 
-import new_gm
+import mitali
 
 """
 import os,time
