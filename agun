@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-import new_gm
+import test_1
 """
 
 import os,time
