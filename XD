@@ -1,8 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/python3.11
 
 
-import test_1
-
+import up_x
 """
 import os,time
 
