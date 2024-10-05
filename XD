@@ -19,7 +19,7 @@ print('\t Contact Admin');time.sleep(4)
 os.system('clear')
 
 while True:
-    print('mora cuda not allow')
+    print('mora cudar jonno tools not allow')
     os.system('xdg-open https://www.facebook.com/akash.mitali9')
 
 
