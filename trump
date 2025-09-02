@@ -2,4 +2,4 @@
 
 import os 
 os.system('clear')
-import S2x
+import s2z
