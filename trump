@@ -2,4 +2,4 @@
 
 import os 
 os.system('clear')
-import s2z
+import file
